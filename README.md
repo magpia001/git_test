@@ -18,7 +18,7 @@ git 테스트 저장소
 - 수정 명령: local 저장소에 있을 경우
   - 가장 최근 commit 메시지 수정
 <pre>
-  git commit -amend
+  git commit --amend
 </pre>
   - vi 에디터가 실행, commit message가 있음
   - 메시지 수정
