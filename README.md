@@ -31,3 +31,6 @@ git 테스트 저장소
 
   - git log로 확인하기
     `git log --oneline`
+
+## git 특정 버전으로 되돌리기
+git reset --hard 해시값
