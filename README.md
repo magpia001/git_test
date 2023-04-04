@@ -30,3 +30,4 @@ git 테스트 저장소
       - :wq  ->  엔터키 수행
 
   - git log로 확인하기
+    `git log --oneline`
