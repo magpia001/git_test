@@ -5,3 +5,4 @@ git 어렵다
 패턴을 찾아서 지혜롭게
 
 git commit 수정하기 실습 중
+git commit 수정하기 다시 실습 중
